@@ -19,9 +19,10 @@ Step 6 : Using Nested if loop check whether the student is eligible or not eligi
 Step 7 : Print the result.
 
 ## Program:
-Name : ARUN KUMAR SUKDEV CHAVAN
 
-Reg no : 212222230013
+Name : s.thirisha
+
+Reg no : 212222230160
 ```
 using System;
 
